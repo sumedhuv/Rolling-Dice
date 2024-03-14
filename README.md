@@ -1,6 +1,8 @@
-# first_app
+# Rolling Dice
 
-A new Flutter project.
+This is my first project on Flutter to get my hands dirty with this framework.
+
+My goal is to build a couple of simple projects to get comfortable with Dart so that I can use it to build an App for my masters dissertation.
 
 ## Getting Started
 
